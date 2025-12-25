@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building full-stack web applications using the **MERN Stack (MongoDB, Express.js, React, Node.js)** and solving real-world problems.<br><br>👯 I’m looking to collaborate on  <br>MERN stack projects, hackathons, and open-source contributions.<br><br>🤝 I’m looking for help with  <br>Advanced backend architecture, system design, and scalable application design.<br><br>🌱 I’m currently learning  <br>Advanced React, backend optimization, and **planning to learn Spring Boot for backend development**.<br><br>💬 Ask me about  <br>MERN Stack Development, REST APIs, backend logic, and full-stack projects.<br><br>⚡ Fun fact  <br>I enjoy building projects under pressure during hackathons 🚀<br>
+🔭 I’m currently working on  <br>Building full-stack applications using the **MERN Stack** and solving real-world problems. I enjoy collaborating on projects, hackathons, and open-source contributions.<br><br>🌱 I’m currently learning  <br>Advanced React and backend optimization, with plans to learn **Spring Boot**.  <br>💬 Ask me about MERN stack development and REST APIs.  <br>⚡ Fun fact: I enjoy building projects under pressure during hackathons 🚀<br>
 
 
 ## 🌐 Socials:
