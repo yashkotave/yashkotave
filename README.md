@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building full-stack applications using the **MERN Stack** and solving real-world problems. I enjoy collaborating on projects, hackathons, and open-source contributions.<br><br>🌱 I’m currently learning  <br>Advanced React and backend optimization, with plans to learn **Spring Boot**.  <br>💬 Ask me about MERN stack development and REST APIs.  <br>⚡ Fun fact: I enjoy building projects under pressure during hackathons 🚀
-Here's my personal portfolio 
+Here's my personal portfolio <br>
 https://yashkotaveportfolio.vercel.app/<br>
 
 
