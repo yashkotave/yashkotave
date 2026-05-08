@@ -1,4 +1,4 @@
-# 💫 About Me
+#  About Me
 
 Hey, I'm **Yash Kotave** — a full-stack developer exploring the intersection of web development and AI.
 
@@ -28,9 +28,10 @@ I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js) and have b
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashkotave&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashkotave&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkotave&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=yashkotave&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
+![](https://streak-stats.demolab.com/?user=yashkotave&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashkotave&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400)
 
 ---
 
