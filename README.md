@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YASH%20KOTAVE&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20Agentic%20Systems%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Building+full-stack+web+%2B+AI-powered+applications;MERN+Stack+%E2%80%A2+Generative+AI+%E2%80%A2+Agentic+Pipelines;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Building+full-stack+web+%2B+AI-powered+applications;MERN+Stack+%E2%80%A2+Generative+AI+%E2%80%A2+Agentic+Pipelines;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 </a>
 
 <br/><br/>
