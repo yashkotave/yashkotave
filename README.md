@@ -34,7 +34,7 @@
 <div align="center">
 
 ```yaml
-whoami:
+who am i:
   name: "Yash Kotave"
   role: "Full Stack Developer • AI / Agentic Systems Explorer"
   education: "B.Tech CSE, LNCT Excellence, Bhopal"
