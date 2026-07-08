@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=YASH%20KOTAVE&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20%2F%20Agentic%20Systems%20Engineer&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Building+full-stack+web+%2B+AI-powered+applications;MERN+Stack+%E2%80%A2+Generative+AI+%E2%80%A2+Agentic+Pipelines;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Building+full-stack+web+%2B+AI-powered+applications;MERN+Stack+%E2%80%A2+Generative+AI+%E2%80%A2+Agentic+Pipelines;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-CSE%20%7C%203rd%20Year-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Institute](https://img.shields.io/badge/LNCT%20Excellence-Bhopal-4C1D95?style=for-the-badge&logo=googlecampus&logoColor=white)
