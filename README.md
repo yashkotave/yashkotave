@@ -116,25 +116,6 @@ I care about clean architecture, thoughtful UX, and shipping software that solve
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🌾 Agrizzone — Full-Stack Agriculture E-Commerce Platform</b></summary>
-<br/>
-
-A full-stack MERN e-commerce platform enabling farmers and buyers to trade agricultural products directly, cutting out middlemen and streamlining agri-commerce.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | MongoDB, Express.js, React, Node.js |
-| **Scale** | Multi-role e-commerce (buyer/seller flows), product catalog, cart & order management |
-| **Performance** | Optimized REST API responses, indexed MongoDB queries |
-| **Security** | JWT-based authentication, protected route middleware |
-| **Impact** | Provides a direct digital marketplace for agricultural producers |
-| **Repository** | [github.com/yashkotave/Agrizzone](https://github.com/yashkotave/Agrizzone) |
-
-Built to solve a real supply-chain gap — designed the schema for product listings and orders, implemented secure auth, and built a responsive storefront with a focus on usability for non-technical users.
-
-</details>
-
-<details>
 <summary><b>⚖️ NyaySaathi — AI-Powered Legal Assistance Platform</b></summary>
 <br/>
 
@@ -153,103 +134,24 @@ Combines full-stack engineering with applied Generative AI — the core challeng
 
 </details>
 
-<details>
-<summary><b>🚕 Go_Ride — Full-Stack Cab Booking Application</b></summary>
+<details open>
+<summary><b>📋 DevSync — AI-Powered Agile Project Management Platform</b></summary>
 <br/>
 
-An online cab booking application replicating core ride-hailing functionality — user & driver flows, live booking, and trip management.
+An AI-powered Agile project management platform featuring role-based access control, dynamic Kanban workflows, and automated sprint optimization powered by the Gemini API.
 
 | Aspect | Details |
 |---|---|
-| **Stack** | MongoDB, Express.js, React, Node.js, Socket.io |
-| **Scale** | Dual-role system (rider + driver), real-time booking updates |
-| **Performance** | Socket-based real-time communication for ride status |
-| **Security** | JWT authentication, role-based access control |
-| **Impact** | Demonstrates real-time, multi-actor full-stack system design |
-| **Repository** | [github.com/yashkotave/Go_Ride](https://github.com/yashkotave/Go_Ride) |
+| **Stack** | MERN Stack + Gemini API |
+| **Scale** | Role-based multi-user workspace with dynamic Kanban boards |
+| **Performance** | AI-assisted sprint optimization for faster planning cycles |
+| **Security** | Role-based access control (RBAC) across workspaces |
+| **Impact** | Streamlines Agile sprint planning with automated, AI-driven suggestions |
+| **Repository** | [github.com/yashkotave/DevSync](https://github.com/yashkotave/DevSync) |
 
-Focused on real-time data flow between riders and drivers — one of the more architecturally complex builds, involving live state synchronization across two user roles.
-
-</details>
-
-<details>
-<summary><b>🏨 VistaStay — Hotel Listing & Booking Web App</b></summary>
-<br/>
-
-A hotel listing platform enabling users to explore, search, and manage property listings with a clean, map-friendly browsing experience.
-
-| Aspect | Details |
-|---|---|
-| **Stack** | MongoDB, Express.js, Node.js, EJS |
-| **Scale** | CRUD-based listing management with search & filter |
-| **Performance** | Server-rendered views for fast initial load |
-| **Security** | Input validation & session-based auth |
-| **Impact** | Full listing lifecycle from creation to discovery |
-| **Repository** | [github.com/yashkotave/VistaStay](https://github.com/yashkotave/VistaStay) |
-
-Built to strengthen backend fundamentals — CRUD design, server-side rendering with EJS, and clean RESTful routing conventions.
+Merges full-stack Agile tooling with generative AI — the Gemini API drives automated sprint optimization on top of a role-based Kanban workflow engine.
 
 </details>
-
----
-
-## 💼 Experience
-
-> *Currently focused on academics, independent full-stack + AI projects, and hackathons. Roles below are placeholders — update with your internship / employment details.*
-
-**`[Role Title]`** · `[Company Name]` · `[Start Date] – [End Date]`
-
-- Add a short professional description of the role and its scope
-- Add key contributions as scope-of-work bullet points
-- Add measurable outcomes where possible
-
-`[Skill Tag]` `[Skill Tag]` `[Skill Tag]` `[Skill Tag]`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🦈 **Pull Shark** | GitHub achievement for merged pull requests |
-| 🎲 **YOLO** | GitHub achievement for merging without review |
-| ⚡ **Hackathon Builder** | Consistent contributor across hackathon-driven builds |
-
-</div>
-
----
-
-## 📜 Certifications
-
-> *Add your certification badges below as you earn them.*
-
-<div align="center">
-
-**AWS**
-<br/>
-`[Add AWS Certification Badge]`
-
-<br/>
-
-**Oracle**
-<br/>
-`[Add Oracle Certification Badge]`
-
-<br/>
-
-**NPTEL**
-<br/>
-`[Add NPTEL Certification Badge]`
-
-<br/>
-
-**Cisco**
-<br/>
-`[Add Cisco Certification Badge]`
-
-</div>
 
 ---
 
@@ -257,10 +159,8 @@ Built to strengthen backend fundamentals — CRUD design, server-side rendering 
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yashkotave)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/yashkotave)
-[![HackerRank](https://img.shields.io/badge/HackerRank-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yashkotave)
-[![CodeChef](https://img.shields.io/badge/CodeChef-7C3AED?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yashkotave)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1E1B4B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yash_kotave/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/yash_kotave)
 
 </div>
 
@@ -281,31 +181,11 @@ Built to strengthen backend fundamentals — CRUD design, server-side rendering 
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashkotave&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashkotave&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9" width="100%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yashkotave/yashkotave/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
