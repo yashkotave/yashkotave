@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-![Academic](https://img.shields.io/badge/B.Tech-CSE%20%7C%203rd%20Year-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Academic](https://img.shields.io/badge/B.Tech-CSE%20%7C%204th%20Year-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Institute](https://img.shields.io/badge/LNCT%20Excellence-Bhopal-4C1D95?style=for-the-badge&logo=googlecampus&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Bhopal%2C%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white)
 
