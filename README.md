@@ -36,7 +36,7 @@
 ```yaml
 who am i:
   name: "Yash Kotave"
-  role: "Full Stack Developer • AI / Agentic Systems Explorer"
+  role: "Full Stack Developer • AI / Agentic System Explorer"
   education: "B.Tech CSE, LNCT Excellence, Bhopal"
   focus: ["MERN Stack", "Generative AI", "Agentic Pipelines", "Product Engineering"]
 ```
